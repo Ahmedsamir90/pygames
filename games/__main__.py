@@ -1,6 +1,4 @@
-"""Free Games CLI
 
-"""
 
 import argparse
 import os
